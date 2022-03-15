@@ -12,5 +12,5 @@ const person ={
 // person.key = "aashubashir@gmail.com";  //to print key of a person
 // console.log(person);
  
-person[key] = "aashubashir@gmail.com";  //to print key of a person
+person[key] = "aashubashir@gmail.com";  //[key] will put the value of the key in the key, ie email and then will print the value of it.
 console.log(person);
