@@ -87,13 +87,22 @@ function findTarget(array, target){
 let returnValue = findTarget(myArray, 790);
 console.log(retValue);
 
+// // start of inayat task
 // console.log(b); // // inayat task
-// let b = 4;   // // if var is used, it will show undefined
+//let b = 4;   // // if var is used, it will show undefined
 
-function abc(){
-    let a = 10;
-}
-console.log(a);
+// function abc(){
+//     let a = 10;   // // inayat other task 
+// }
+// console.log(a);
+
+// // end of inayat task
+
+
+
+
+
+
 
 
 
