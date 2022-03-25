@@ -9,3 +9,11 @@ console.log(array.length);
 
 reversed=array.reverse();
 console.log(reversed);
+
+
+
+const array1 = [1,12,2,112];
+array.sort((a,b) =>{
+    return a-b;
+});
+console.log(array1);

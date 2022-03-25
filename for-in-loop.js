@@ -1,4 +1,4 @@
-//for of loop 
+//for in loop 
 // loop means to iterate
 const fruits = ["apple", "mango", "banana", "grapes", "pear"];
 const fruits2 = [];
