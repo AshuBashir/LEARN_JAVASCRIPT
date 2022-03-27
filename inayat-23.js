@@ -16,3 +16,4 @@ const valid = function(arr){
 }
 const results = valid(array);
 console.log(results);
+
